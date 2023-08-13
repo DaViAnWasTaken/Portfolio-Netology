@@ -20,4 +20,4 @@
  *Тел*: +79876543210
  *Email*: qwerty@gmail.com
 
- ![Моя фотография](https://imgur.com/a/c4VfKm1)
+ ![Моя фотография](\img\photo.png)
