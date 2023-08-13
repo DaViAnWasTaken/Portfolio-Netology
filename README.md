@@ -20,4 +20,4 @@
  *Тел*: +79876543210
  *Email*: qwerty@gmail.com
 
- ![Моя фотография](\img\photo.png)
+ ![Моя фотография](/img/photo.png)
